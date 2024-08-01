@@ -1,4 +1,13 @@
-## Hi there 👋
+## Meu nome e Brayan raphael
+<Estou estudando no Alura
+<Estou me desenvolvendo na linguagem Javascript
+<Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
+
+
+Voce pode entrar em contato comigo📫
+00001105104783sp@al.educacao.sp.gov
+@_brito4.m
+
 
 <!--
 **Brito-hub/Brito-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
